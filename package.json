@@ -1,0 +1,15 @@
+{
+  "name": "apple.com",
+  "version": "1.0.0",
+  "description": "serius",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "muhriddin",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
